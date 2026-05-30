@@ -1,7 +1,7 @@
 # Site settings
 title: Markell Jones
-email: MarkellTJones@gmail.com
-url: https://Jtriplet02.github.io/cyber-portfolio
+email: markelltjones@gmail.com
+url: https://markelltjones.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -40,13 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/markell-jones-36600250
+    url: www.linkedin.com/in/markelltjones
   - title: github
-    url: https://github.com/Jtriplet02
+    url: https://github.com/markelltjones
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:MarkellTJones@gmail.com
+  email-url: mailto:markelltjones@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
